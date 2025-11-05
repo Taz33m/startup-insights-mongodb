@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Airbnb",
+    "founded_year": 2008,
+    "country": "USA",
+    "city": "San Francisco",
+    "industry": ["Travel", "Hospitality"],
+    "funding_rounds": [
+      {"round": "Seed", "amount_usd": 600000, "date": "2009-04-01"},
+      {"round": "Series A", "amount_usd": 7200000, "date": "2010-11-01"},
+      {"round": "Series B", "amount_usd": 112000000, "date": "2011-07-01"}
+    ],
+    "investors": ["Sequoia Capital", "Greylock Partners", "Andreessen Horowitz"],
+    "total_funding_usd": 6400000000,
+    "employee_count": 6000,
+    "status": "Operating"
+  },
+  {
+    "name": "SpaceX",
+    "founded_year": 2002,
+    "country": "USA",
+    "city": "Hawthorne",
+    "industry": ["Aerospace", "Transportation"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 100000000, "date": "2008-08-01"},
+      {"round": "Series D", "amount_usd": 1000000000, "date": "2015-01-01"}
+    ],
+    "investors": ["Founders Fund", "Draper Fisher Jurvetson", "Google"],
+    "total_funding_usd": 9800000000,
+    "employee_count": 12000,
+    "status": "Operating"
+  },
+  {
+    "name": "ByteDance",
+    "founded_year": 2012,
+    "country": "China",
+    "city": "Beijing",
+    "industry": ["Social Media", "AI"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 100000000, "date": "2014-06-01"},
+      {"round": "Series D", "amount_usd": 3000000000, "date": "2018-10-01"}
+    ],
+    "investors": ["Sequoia Capital China", "SoftBank", "KKR"],
+    "total_funding_usd": 7400000000,
+    "employee_count": 110000,
+    "status": "Operating"
+  },
+  {
+    "name": "Klarna",
+    "founded_year": 2005,
+    "country": "Sweden",
+    "city": "Stockholm",
+    "industry": ["FinTech", "Payments"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 10000000, "date": "2010-12-01"},
+      {"round": "Series H", "amount_usd": 639000000, "date": "2021-06-01"}
+    ],
+    "investors": ["Sequoia Capital", "Silver Lake", "SoftBank"],
+    "total_funding_usd": 4500000000,
+    "employee_count": 5000,
+    "status": "Operating"
+  },
+  {
+    "name": "Canva",
+    "founded_year": 2012,
+    "country": "Australia",
+    "city": "Sydney",
+    "industry": ["Design", "SaaS"],
+    "funding_rounds": [
+      {"round": "Seed", "amount_usd": 3000000, "date": "2013-04-01"},
+      {"round": "Series A", "amount_usd": 15000000, "date": "2015-01-01"}
+    ],
+    "investors": ["Blackbird Ventures", "Felicis Ventures", "Sequoia Capital"],
+    "total_funding_usd": 572000000,
+    "employee_count": 3000,
+    "status": "Operating"
+  },
+  {
+    "name": "UiPath",
+    "founded_year": 2005,
+    "country": "Romania",
+    "city": "Bucharest",
+    "industry": ["AI", "Automation"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 30000000, "date": "2017-04-01"},
+      {"round": "Series D", "amount_usd": 568000000, "date": "2019-04-01"}
+    ],
+    "investors": ["Accel", "CapitalG", "Sequoia Capital"],
+    "total_funding_usd": 2100000000,
+    "employee_count": 4200,
+    "status": "Operating"
+  },
+  {
+    "name": "Paytm",
+    "founded_year": 2010,
+    "country": "India",
+    "city": "Noida",
+    "industry": ["FinTech", "Payments"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 10000000, "date": "2011-01-01"},
+      {"round": "Series F", "amount_usd": 1400000000, "date": "2017-05-01"}
+    ],
+    "investors": ["Alibaba", "SoftBank", "Berkshire Hathaway"],
+    "total_funding_usd": 4000000000,
+    "employee_count": 20000,
+    "status": "Operating"
+  },
+  {
+    "name": "Impossible Foods",
+    "founded_year": 2011,
+    "country": "USA",
+    "city": "Redwood City",
+    "industry": ["Food Tech", "Sustainability"],
+    "funding_rounds": [
+      {"round": "Series A", "amount_usd": 3000000, "date": "2011-10-01"},
+      {"round": "Series F", "amount_usd": 500000000, "date": "2020-03-01"}
+    ],
+    "investors": ["Khosla Ventures", "Bill Gates", "Temasek"],
+    "total_funding_usd": 1900000000,
+    "employee_count": 700,
+    "status": "Operating"
+  },
+  {
+    "name": "Deliveroo",
+    "founded_year": 2013,
+    "country": "UK",
+    "city": "London",
+    "industry": ["Food Delivery", "Logistics"],
+    "funding_rounds": [
+      {"round": "Seed", "amount_usd": 2700000, "date": "2013-11-01"},
+      {"round": "Series G", "amount_usd": 575000000, "date": "2019-05-01"}
+    ],
+    "investors": ["Index Ventures", "Accel", "Amazon"],
+    "total_funding_usd": 1700000000,
+    "employee_count": 2500,
+    "status": "Operating"
+  },
+  {
+    "name": "Robinhood",
+    "founded_year": 2013,
+    "country": "USA",
+    "city": "Menlo Park",
+    "industry": ["FinTech", "Trading"],
+    "funding_rounds": [
+      {"round": "Seed", "amount_usd": 3000000, "date": "2013-09-01"},
+      {"round": "Series G", "amount_usd": 3400000000, "date": "2021-02-01"}
+    ],
+    "investors": ["Index Ventures", "Andreessen Horowitz", "Sequoia Capital"],
+    "total_funding_usd": 5600000000,
+    "employee_count": 3800,
+    "status": "Operating"
+  }
+]
